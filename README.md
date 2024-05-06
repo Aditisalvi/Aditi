@@ -16,6 +16,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditi-salvi-59a704223/) 
 [![Upwork](https://img.shields.io/badge/Upwork-%557CFC00.svg?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0148b5e37653d664fd)
 
-[![](https://visitcount.itsvg.in/api?id=Aditi&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
-
 

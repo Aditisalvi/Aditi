@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C#](https://img.shields.io/badge/csharp-823085?style=for-the-badge&logo=csharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/dotnet-3670A0?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/cplusplus-004482?style=for-the-badge&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/c++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/c-3670A0?style=for-the-badge&logo=c&logoColor=ffdd54)
 ![Bootstrap 5](https://img.shields.io/badge/bootstrap-823085?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-AEB2D5?style=for-the-badge&logo=php&logoColor=white)

@@ -11,7 +11,7 @@
 ![PHP](https://img.shields.io/badge/php-AEB2D5?style=for-the-badge&logo=php&logoColor=AEB2D5)
 ![Dart](https://img.shields.io/badge/dart-01579b?style=for-the-badge&logo=dart&logoColor=01579b)
 ![Flutter](https://img.shields.io/badge/flutter-1fbcfd?style=for-the-badge&logo=flutter&logoColor=1fbcfd)
-![Firebase](https://img.shields.io/badge/firebase?style=for-the-badge&logo=firebase&logoColor=ffa000)
+![Firebase](https://img.shields.io/badge/firebase-ffa000?style=for-the-badge&logo=firebase)
 ![Wordpress](https://img.shields.io/badge/wordpress-21759b?style=for-the-badge&logo=wordpress&logoColor=21759b)
 ![Unity](https://img.shields.io/badge/unity-110b09?style=for-the-badge&logo=unity&logoColor=110b09)
 ![AWS](https://img.shields.io/badge/amazonaws-ff9900?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
